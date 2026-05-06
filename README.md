@@ -3,10 +3,14 @@ Convert notes between 2 different tempo maps in moonscraper
 
 # How to use
 
-1. open up a .chart file in a text editor with the old tempo map you want to replace
+1. In "bpm-resolution-dual-maps.py"  change the values of
+   OLD_RESOLUTION = 480
+   NEW_RESOLUTION = 480
+   to whatever value your song needs to be
     
 
-2. Copy the number values under "SyncTrack" of the old tempo map
+2. open up the .chart file in a text editor with the old tempo map you want to replace and
+   Copy the number values under "SyncTrack" of the old tempo map
    <img width="610" height="600" alt="2026-05-05_232706" src="https://github.com/user-attachments/assets/c98e0cfc-e59d-4972-baa9-7c23afda69f7" />
 
 
@@ -25,4 +29,8 @@ Convert notes between 2 different tempo maps in moonscraper
 7. Paste the note values in  "expert.txt"
    <img width="346" height="632" alt="2026-05-05_234525" src="https://github.com/user-attachments/assets/680c590b-35d6-4c61-87e4-ccd39c778bd3" />
 
+8. Run the script using:
+   ``python bpm-resolution-dual-maps.py
+
+   <img width="976" height="511" alt="2026-05-05_234821" src="https://github.com/user-attachments/assets/a6dbabab-e897-4558-b410-932dd4e1b1b2" />
 
