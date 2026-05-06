@@ -1,7 +1,7 @@
 # Clone-Hero-Tempo-Map-Conversion
 Convert notes between 2 different tempo maps in moonscraper
 
-#How to use
+# How to use
 
 1. open up a .chart file in a text editor with the old tempo map you want to replace
     
@@ -12,5 +12,11 @@ Convert notes between 2 different tempo maps in moonscraper
 
 3. Paste the number values in "old_sync.txt"  of the old tempo map
    <img width="374" height="430" alt="2026-05-05_232755" src="https://github.com/user-attachments/assets/d284eeda-0525-4968-8866-156a92ae6368" />
-  
 
+4. Copy the number values under "SyncTrack" of the new tempo map you wish to use
+   <img width="343" height="593" alt="2026-05-05_232857" src="https://github.com/user-attachments/assets/3df0b63b-7d33-4979-8be6-ff32cd8d0772" />
+
+5. Paste the number values in "new_sync.txt"  of the new tempo map  you wish to use
+   <img width="276" height="628" alt="2026-05-05_232935" src="https://github.com/user-attachments/assets/68c28a1b-5adf-4c58-a468-6e7c9b969be3" />
+
+6. 
