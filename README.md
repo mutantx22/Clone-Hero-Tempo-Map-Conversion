@@ -19,4 +19,10 @@ Convert notes between 2 different tempo maps in moonscraper
 5. Paste the number values in "new_sync.txt"  of the new tempo map  you wish to use
    <img width="276" height="628" alt="2026-05-05_232935" src="https://github.com/user-attachments/assets/68c28a1b-5adf-4c58-a468-6e7c9b969be3" />
 
-6. 
+6. Copy the note values under ExpertSingle
+   <img width="232" height="559" alt="2026-05-05_234237" src="https://github.com/user-attachments/assets/4b9f8f91-db46-4f83-bb3b-84108cbfa316" />
+
+7. Paste the note values in  "expert.txt"
+   <img width="346" height="632" alt="2026-05-05_234525" src="https://github.com/user-attachments/assets/680c590b-35d6-4c61-87e4-ccd39c778bd3" />
+
+
